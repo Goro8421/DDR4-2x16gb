@@ -1,5 +1,7 @@
 # Hackintosh, Biostar A320MH [5.17, 05/05/2022], AMD Ryzen 5 4600G, AMD Radeon RX 580 2048 SP - Firmware de RX 570
 
+<img width="1681" height="1015" alt="Hackintool - System" src="https://github.com/user-attachments/assets/73231ac1-5391-4c0e-b191-555e93e28d98" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.6.1)
